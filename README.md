@@ -49,3 +49,7 @@ xi) Naive Bayes code from scratch
 9 Decision Tree Classifier
 
 10 XGBoost with Optimization 
+
+### As well as there is folder named in class kaggle competition inside that there are 3 small projects which we have solved in class during this semester
+
+### Project folder contains our end sem project for this subject. Entire description of the project is given in that folder as well link for seperate repo of that project is also shared
